@@ -1,0 +1,11 @@
+{
+    "id": "xyz.farcaster",
+    "display_name": "Farcaster",
+    "service_name": "Farcaster",
+    "default_color": "purple",
+    "site": "https://www.farcaster.xyz/",
+    "icon": "https://github.com/vrypan/farcaster-brand/blob/ea95543f6d1308dd52631f5e81f395a60447df0b/icons/icon-square/purple-white.png?raw=true",
+    "item_style": "post",
+    "canPost": true,
+    "check_interval": 300,
+}
